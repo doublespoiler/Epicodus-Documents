@@ -21,10 +21,10 @@ Arguments
 Creating a new Project
 1. Create the repository on GitHub
 2. Create project folder on your computer
-3. Initialize Git inside the project folder (git init)
-4. Add files/folders to Git (git add FILENAME)
-5. Make commits (git commit -m "MESSAGE")
-6. Add Remote (git remote add NICK URL)
-7. Push your code! (git push NICK main)
+3. INITialize Git inside the project folder (git init)
+4. ADD files/folders for git to track (git add FILENAME)
+5. COMMIT your changes (git commit -m "MESSAGE")
+6. Add REMOTE (git remote add NICK URL)
+7. PUSH your code! (git push NICK main)
 
 You must choose which files to commit with (git add) 
