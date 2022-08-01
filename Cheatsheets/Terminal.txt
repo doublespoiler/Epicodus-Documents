@@ -11,10 +11,10 @@ mv      - Move/Rename (mv FILENAME1 LOCATION/FILENAME2)
 touch   - make file
 
 Arguments
-..  ../ - up one directory
-.   ./  - here
-~   ~/  - Home directory
--r      - Recursive (everything in a directory, and itself)
--a      - all
--f      - force
-
+..  ../   - up one directory
+.   ./    - here
+~   ~/    - Home directory
+-r        - Recursive (everything in a directory, and itself)
+-a        - all
+-f        - force
+--global  - make change globally
