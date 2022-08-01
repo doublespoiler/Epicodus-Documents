@@ -1,0 +1,28 @@
+Git commands cheatsheet
+
+config --global user.name/user.email "name"/email
+
+init - Initialize new Git repository
+status - Gets status
+add FILENAME - Adds file for Git to track
+clone URL - Clone repository at URL
+commit -m "comment" - Commits, with comment
+log - Shows log of commits
+remote add NICK URL - Stores information about remote repository NICKNAME at URL
+remote -v - shows all the remotes stored in Git for this project
+push NICK main - Pushes code to the remote nicknamed NICK from the main branch
+
+
+Arguments
+-m - message
+-v 
+-M - This branch
+
+Creating a new Project
+1. Create the repository on GitHub
+2. Create project folder
+3. Initialize Git (git init)
+4. Add files to Git (git add FILENAME)
+5. Make commits (git commit -m "")
+6. Add Remote (git remote add NICK URL)
+7. Push your code! (git push NICK main)
