@@ -154,3 +154,19 @@
 ## Merge checklist
 * If we have conflicts, we can't merge!
 * TBD
+
+## Default .gitignore_global
+cd ~ <br>
+touch .gitignore_global <br>
+code .gitignore_global <br>
+git config --global core.excludesfile ~/.gitignore_global <br>
+
+`# OS generated files #` <br>
+`######################` <br>
+`.DS_Store` <br>
+`.DS_Store?` <br>
+`._*` <br>
+`.Spotlight-V100` <br>
+`.Trashes` <br>
+`ehthumbs.db` <br>
+`Thumbs.db` <br>
