@@ -11,12 +11,17 @@ log                        - Shows log of commits
 remote add NICK URL        - Stores information about remote repository NICKNAME at URL
 remote -v                  - shows all the remotes stored in Git for this project
 push NICK main             - Pushes code to the remote nicknamed NICK from the main branch
+branch BRANCHNAME          - Check branches, OR create new branch with BRANCHNAME
+checkout BRANCHNAME        - Switch to branch BRANCHNAMEs
+merge BRANCHNAME           - Merge branch BRANCHNAME onto the branch you are currently on
+
 
 
 Arguments
 -m - message
 -v 
 -M - This branch
+--oneline - shows git log in condensed format
 
 Creating a new Project
 1. Create the repository on GitHub
