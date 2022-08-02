@@ -1,4 +1,4 @@
-# Terminal commands cheatsheet
+# **Terminal cheatsheet**
 
 ## Commands
 <table>

@@ -11,6 +11,7 @@ Currently includes:
 
 ## Included:
 * Regedit file to add "Open Git Bash Here" to Windows contex menu (Be careful using .reg files downloaded from the internet!)
+* Default .gitignore_global
 
 ## To add:
 HTML

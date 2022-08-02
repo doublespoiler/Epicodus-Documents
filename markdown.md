@@ -1,4 +1,4 @@
-# Markdown Cheatsheet
+# **Markdown Cheatsheet**
 <table>
   <tr>
     <td>Syntax</td>
@@ -42,18 +42,18 @@
   </tr>
   <tr>
     <td>`CODE`</td>
-    <td>Codeblock</td>
-    <td></td>
+    <td>Code</td>
+    <td>inline rendering of code</td>
+  </tr>
+  <tr>
+    <td>four space/two tabs</td>
+    <td>code block</td>
+    <td>put four spaces (two epicodus tabs) before lines to be in a single code block</td>
   </tr>
   <tr>
     <td>>TEXT</td>
-    <td>Block Quote</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>block quote</td>
+    <td>Use > for blank lines, can >> for indented blockquote</td>
   </tr>
   <tr>
     <td></td>
