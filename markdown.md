@@ -1,6 +1,7 @@
-
-
 # **Markdown Cheatsheet**
+
+- [**Markdown Cheatsheet**](#markdown-cheatsheet)
+    - [Markdown also accepts html!](#markdown-also-accepts-html)
 ### Markdown also accepts html!
 |Syntax|Description|Example|
 |----|----|----|

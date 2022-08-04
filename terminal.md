@@ -40,7 +40,7 @@
   <tr>
     <td>mv</td>
     <td>Move/Rename</td>
-    <td>mv FILENAME LOCAION <br /> mv FILENAME NEWFILENAME</td>
+    <td>mv FILENAME LOCATION <br /> mv FILENAME NEWFILENAME</td>
   </tr>
   <tr>
     <td>touch</td>
