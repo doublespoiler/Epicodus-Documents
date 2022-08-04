@@ -3,7 +3,7 @@
 # **Markdown Cheatsheet**
 ### Markdown also accepts html!
 |Syntax|Description|Example|
-|-----|------------|-----|
+|----|----|----|
 |#TEXT (##TEXT, ###TEXT, etc.)|Header, with # being large #BIGBOYS|
 |`**TEXT**`|strong, can use `__`|**This is strong**|
 |`*TEXT*`|emphasis, can use `_`|`*This has emphasis*`|
