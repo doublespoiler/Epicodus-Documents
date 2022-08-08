@@ -1,13 +1,11 @@
 # BOOTSTRAP CHEATSHEET
 
+- [[#Links|Links]]
+- [[#Snippets|Snippets]]
+
+
 ### Links
 * Documentation https://getbootstrap.com/docs/5.2/getting-started/introduction/
-
-- [BOOTSTRAP CHEATSHEET](#bootstrap-cheatsheet)
-    - [Links](#links)
-  - [Snippets](#snippets)
-
-```
 
 ## Snippets
 |Name|Description|Notes|

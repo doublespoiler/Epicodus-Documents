@@ -36,40 +36,44 @@ _{Let people know what to do if they run into any issues or have questions, idea
 
 Copyright (c) _date_ _author name(s)_
 
-`# _{Application Name}_`
 
-`#### By _**{List of contributors}**_`
+```
+# _{Application Name}_
 
-`#### _{Brief description of application}_`
+#### By _**{List of contributors}**_
 
-`## Technologies Used`
+#### _{Brief description of application}_
 
-`* _List all_`
-`* _the major technologies_`
-`* _you used in your project_`
-`* _here_`
+## Technologies Used
 
-`## Description`
+- _List all_
+- _the major technologies_
+- _you used in your project_
+- _here_
 
-`_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_`
+## Description
 
-`## Setup/Installation Requirements`
+_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
 
-`* _This is a great place_`
-`* _to list setup instructions_`
-`* _in a simple_`
-`* _easy-to-understand_`
-`* _format_`
+## Setup/Installation Requirements
 
-`_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_`
+* _This is a great place_
+* _to list setup instructions_
+* _in a simple_
+* _easy-to-understand_
+* _format_
 
-`## Known Bugs`
+_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
-`* _Any known issues_`
-`* _should go here_`
+## Known Bugs
 
-`## License`
+* _Any known issues_
+* _should go here_
 
-`_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_`
+## License
 
-`Copyright (c) _date_ _author name(s)_`
+_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+
+Copyright (c) _date_ _author name(s)_
+
+```

@@ -1,21 +1,19 @@
 # USEFUL
 
 # TABLE OF CONTENTS
-- [USEFUL](#useful)
-- [TABLE OF CONTENTS](#table-of-contents)
-  - [RESOURCES](#resources)
-    - [Cheat sheets](#cheat-sheets)
-    - [Documenation](#documenation)
-    - [Tutorials](#tutorials)
-  - [USEFUL SITES](#useful-sites)
-    - [Testing/development](#testingdevelopment)
-    - [Design](#design)
-    - [Examples](#examples)
-  - [USEFUL LINKS/OTHER](#useful-linksother)
-    - [Downloads](#downloads)
-    - [Browser Extensions](#browser-extensions)
-    - [VSCode Extensions](#vscode-extensions)
-    - [License Links](#license-links)
+- [[#RESOURCES|RESOURCES]]
+	- [[#RESOURCES#Cheat sheets|Cheat sheets]]
+	- [[#RESOURCES#Documenation|Documenation]]
+	- [[#RESOURCES#Tutorials|Tutorials]]
+- [[#USEFUL SITES|USEFUL SITES]]
+	- [[#USEFUL SITES#Testing/development|Testing/development]]
+	- [[#USEFUL SITES#Design|Design]]
+	- [[#USEFUL SITES#Examples|Examples]]
+- [[#USEFUL LINKS/OTHER|USEFUL LINKS/OTHER]]
+	- [[#USEFUL LINKS/OTHER#Downloads|Downloads]]
+	- [[#USEFUL LINKS/OTHER#Browser Extensions|Browser Extensions]]
+	- [[#USEFUL LINKS/OTHER#VSCode Extensions|VSCode Extensions]]
+	- [[#USEFUL LINKS/OTHER#License Links|License Links]]
 
 ## RESOURCES
 

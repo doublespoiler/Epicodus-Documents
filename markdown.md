@@ -1,7 +1,6 @@
 # **Markdown Cheatsheet**
 
-- [**Markdown Cheatsheet**](#markdown-cheatsheet)
-    - [Markdown also accepts html!](#markdown-also-accepts-html)
+
 ### Markdown also accepts html!
 |Syntax|Description|Example|
 |----|----|----|
@@ -13,6 +12,6 @@
 |`[TEXT](LINK)`|Hyperlink|[Google](http://google.com)|
 |`\*, \_`|Render * or _|\* \_|
 |`` `CODE` ``|Code|inline rendering of code|
-|` ```lang ` or ~ ~~~ ~ above and below|code block|multiline rendering of code|
+|` ```lang ` or ` ~~~lang ` above and below|code block|multiline rendering of code, lang specifies language for language-specific highlights|
 |>TEXT|block quote|Use ">  "for blank lines, can >> for indented blockquote| 
 |end line wih 2 spaces|line break|press return after|
