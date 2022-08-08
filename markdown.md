@@ -13,6 +13,6 @@
 |`[TEXT](LINK)`|Hyperlink|[Google](http://google.com)|
 |`\*, \_`|Render * or _|\* \_|
 |`` `CODE` ``|Code|inline rendering of code|
-|``` ``` ``` above and below|code block|multiline rendering of code|
+|` ```lang ` or ~ ~~~ ~ above and below|code block|multiline rendering of code|
 |>TEXT|block quote|Use ">  "for blank lines, can >> for indented blockquote| 
 |end line wih 2 spaces|line break|press return after|

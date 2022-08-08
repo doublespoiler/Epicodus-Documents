@@ -1,0 +1,11 @@
+{
+  "html":{
+    "snippets": {
+
+      "link:favicon": "link[rel='shortcut icon' type=image/x-icon href='${1:favicon.ico}']",
+      "link": "link[href rel=stylesheet type=text/css]/",
+      "link:css": "link[href='${1:style}.css']",
+      "doc": "html[lang=${lang}]>(head>meta[charset=${charset}]+title+link:css+{${1:Document}})+body"
+    }
+  }
+}
