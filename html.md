@@ -38,3 +38,20 @@
   </form>
   ```
 
+## Forms
+### form input types
+| name         | declaration                                                                                                        |                                                                        |     |     |
+| ------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | --- | --- |
+| select box   | `<select id="foo">`<br>  `<option value="foo"></option>`   <br> `  <option value="foo"></option>` <br> `</select>` |                                                                        |     |     |
+| radio button | `<input type="radio" name="foo" value="foo" checked>`                                                              | read value selected `querySelector("inpu[name='foo']:checked).value;"` |     |     |
+| check boxes  |                                                                                                                    |                                                                        |     |     |
+| date         | `<input id="foo" type="date">`                                                                                     |                                                                        |     |     |
+| color        | `<input id="foo" type="color">`                                                                                    |                                                                        |     |     |
+|              |                                                                                                                    |                                                                        |     |     |
+### button types
+| type    | description                            | a                                | b   | c   |
+| ------- | -------------------------------------- | -------------------------------- | --- | --- |
+| submit  | used for form, causes submission event | default submission is to refresh |     |     |
+| button  | no default behavior                    |                                  |     |     |
+| no type | default type is submit                 |                                  |     |     |
+|         |                                        |                                  |     |     |

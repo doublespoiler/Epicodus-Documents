@@ -558,7 +558,7 @@ h5.addEventListener("click", alertHeadings);
 h6.addEventListener("click", alertHeadings);
 ```
 
-Removing an event listener
+Removing an event listener - MUST have same arguments used to create
 ```js
 h1.removeEventListener("click", alertHeading);
 ```

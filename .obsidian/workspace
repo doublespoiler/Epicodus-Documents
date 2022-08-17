@@ -148,23 +148,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 188.5
+    "width": 188.5,
+    "collapsed": true
   },
   "active": "8e3ebb252bd957f1",
   "lastOpenFiles": [
+    "examplereadme.md",
+    "readme.md",
+    "Other/journal.md",
     "Other/temp.md",
     "javascript.md",
-    "terminal.md",
-    "readme.md",
-    "markdown.md",
     "links.md",
-    "git.md",
-    "examplereadme.md",
-    "debugging.md",
-    "css.md"
+    "html.md",
+    "terminal.md",
+    "markdown.md",
+    "git.md"
   ]
 }

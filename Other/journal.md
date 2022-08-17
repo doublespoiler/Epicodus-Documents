@@ -1,8 +1,10 @@
 # Journal
 
 - [Journal](#journal)
-  - [Journal 1 2022/08/03](#journal-1-20220803)
-  - [Journal 2 2022/08/07](#journal-2-20220807)
+-  [[#Journal 1 2022/08/03|Journal 1 2022/08/03]]
+- [[#Journal 2 2022/08/07|Journal 2 2022/08/07]]
+- [[#Journal 3 2022/08/14|Journal 3 2022/08/14]]
+
 
 ## Journal 1 2022/08/03
 
@@ -30,5 +32,22 @@ I feel uneasy asking peers questions, because they're all so busy during class t
 I end up googling and trying out a lot of things. This causes problems with my partners as I tend to take over the session too much when I get "into it." However, this is something I'm working on, and I think I did much better in the second half of the week than the first.
 
 All of my research is going into making "cheatsheets," and hosting them on Github, which I hope are not only useful to myself, but also my classmates.
+
+[TOP](#journal)
+
+## Journal 3 2022/08/14
+
+>You've undoubtedly experienced tricky bugs in your Epicodus journey so far. This is an unavoidable part of programming. Seriously. _Every_ developer–no matter how experienced–deals with bugs, setbacks, and other issues. We find students are most successful when they're able to turn these issues into learning opportunities.
+>
+>-   What is it about encountering a difficult task or bug that frustrates you? Do you have any behavior patterns that make solving these problems more difficult? _(For example, do you always feel pressured to finish projects quickly, making time setbacks involved in bugs stressful or upsetting? Does being uncertain how to solve a bug evoke feelings of not being 'good' or 'smart' enough?, etc.)_ List as many as applicable
+>-   Conversely, is there anything about tricky bugs or issues you actually enjoy? _(It's okay if there isn't, but do you like hunting down the problem? The debugging process? The satisfaction of finally making it work?)_ Do you have any patterns of behavior that make solving problems easier or less stressful?
+>-   Review the list of things you find frustrating. For each item, identify something you could try to lessen that frustration, and turn the situation into a productive educational experience. _(For instance, if the time setback is what stresses you most about bugs, could you plan on reminding yourself that Epicodus doesn't grade students on the amount of work they finish each day?)_
+>-   Review the list of things you actually find enjoyable about tracking down bugs, if anything. Is there anything you could do to maximize this benefit or enjoyment? List your ideas.
+
+I think the hard part about encountering difficult bugs is knowing where to start. Even if I use debugger, my initial code is usually quite messy, as I've been messing around and moving things about. I also tend to experiment maybe more than I should, and use functions and other features I don't know 100% how to use yet.
+
+However, figuring out how to make something work is very fun. Squishing the bug feels good, especially once you fully fix it, though making small steps feels good as well. I tend to Google A LOT, and have pretty good Google-fu, though sometimes now knowin the "proper" names for things can make finding the answers I'm looking for difficult.
+
+
 
 [TOP](#journal)
