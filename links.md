@@ -63,6 +63,6 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=techer.
 ### License Links
 
 [GNU GPL3.0](https://choosealicense.com/licenses/gpl-3.0/)
-`[`GNU GPL3.0](https://choosealicense.com/licenses/gpl-3.0/)`
+`[GNU GPL3.0](https://choosealicense.com/licenses/gpl-3.0/)`
 [MIT](https://choosealicense.com/licenses/mit/)
 `[MIT](https://choosealicense.com/licenses/mit/)`

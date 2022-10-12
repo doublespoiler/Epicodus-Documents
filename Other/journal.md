@@ -51,3 +51,16 @@ However, figuring out how to make something work is very fun. Squishing the bug 
 
 
 [TOP](#journal)
+
+## Journal 4
+>-   When, like all developers, you encounter a problem you can't immediately solve, what's your internal reaction? Is it along the lines of _"Oh, I'm not smart enough for this._", more like _"Okay, I just need to learn more."_, or something else?
+>-  Be honest, what do you value and praise yourself for more? Innately/already knowing how to solve a problem? Or being able to stick with it, research, troubleshoot, and learn more to debug?
+>-   Based on your answers to questions above, do you think you have a growth mindset? Why or why not?
+>-   If you don't currently have a growth mindset, identify what you could do differently to begin fostering one. Or, if you already think you do, what could you to do maximize it?
+
+## Journal 8
+>-   What were your most notable _non-technical_ discoveries during this exercise? Whether about yourself, group communication, working with others, or something else?
+>-   What were your greatest strengths? What about your biggest areas for improvement?
+>- Identify what you can do in the next six sections to further develop any areas for improvement before the next group project.
+>- Overall, what would you do differently next time? Is there a lesson to be learned and brought with you to your pairing or next group work experience?
+
