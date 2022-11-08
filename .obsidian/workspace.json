@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "cd400b6ee5985e0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2feb65b0d9ef9dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "986d775c307d3edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readmes/examplereadme.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59bbcd59ff4bfe17",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c3ed8f59c3d24a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb1d523422c32489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/javascript.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da7757bdad6c639f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/FunctionalProgramming.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac43f824eb9b3220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/FunctionalProgramming.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d37c04d90ac36a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6977d9d39bc32acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9c226abadfcb541",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "972410c42338c270",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "spread",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c772774d64caf10",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e24ac0fb4b467c6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "84a82b6e71d40285",
+    "type": "split",
+    "children": [
+      {
+        "id": "57d20c0962acde86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40403372ba1c4511",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/FunctionalProgramming.md"
+              }
+            }
+          },
+          {
+            "id": "af0c58146ee34089",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/FunctionalProgramming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73f1d44ac24f23c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript/FunctionalProgramming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72bc3f0f995c000f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e3e88c73c5790bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/FunctionalProgramming.md"
+              }
+            }
+          },
+          {
+            "id": "c5e97b7960fcf8b5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 188.5,
+    "collapsed": true
+  },
+  "active": "ac43f824eb9b3220",
+  "lastOpenFiles": [
+    "Javascript/javascript.md",
+    "Javascript/FunctionalProgramming.md",
+    "Javascript/BuildingAFunctionalApplication.md",
+    "Javascript/MapReduceFilter.md",
+    "Untitled.md",
+    "Images/tree.png",
+    "Pasted image 20221029113347.png",
+    "Pasted image 20221029112948.png",
+    "Postman_QlhRlxVkRC.png",
+    "Readmes/examplereadme.md"
+  ]
+}

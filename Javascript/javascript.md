@@ -562,3 +562,192 @@ Removing an event listener - MUST have same arguments used to create
 ```js
 h1.removeEventListener("click", alertHeading);
 ```
+
+
+## Spread Operator ( . . . )
+---
+The opposite of rest
+"Expands" an array into its elements
+Often used to duplicate objects, or merge multiple objects together
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+
+### Copying
+Coyping in Javascript creates a "shallow clone" of the object. It's not a new object in memory.
+```js
+const myCat = {
+	name: "Murphy",
+	age: 1
+}
+
+//we can just copy the myCat, or we can change or add properties.
+const anotherCat = {...myCat, age: 2, color: "gray and white"};
+```
+
+### Merging
+```js
+const flagColor1 = {
+  color1: "green"
+}
+
+const flagColor2 = {
+  color2: "gold"
+}
+
+const flagColor3 = {
+  color3: "black"
+}
+
+const jamaicanFlag = {...flagColor1, ...flagColor2, ...flagColor3}
+```
+
+```js
+jamaicanFlag{
+	color1: "green",
+	color2: "gold", 
+	color3: "black"
+}
+```
+
+Be careful!
+```js
+const flagColor1 = {
+  color1: "green" <<
+}
+
+const flagColor2 = {
+  color1: "gold" <<
+}
+
+const flagColor3 = {
+  color1: "black" <<
+}
+
+const jamaicanFlag = {...flagColor1, ...flagColor2, ...flagColor3}
+```
+
+```js
+jamaicanFlag{
+	color1: "black"
+}
+```
+
+### Object.assign()
+```js
+Object.assign(ObjectToBeCopied, each, other, object, that, should, be, merged, with, the, object);
+```
+
+```js
+const flagColor1 = {
+  color1: "green"
+}
+
+const flagColor2 = {
+  color2: "gold"
+}
+
+const flagColor3 = {
+  color3: "black"
+}
+
+const jamaicanFlag = Object.assign({}, flagColor1, flagColor2, flagColor3);
+```
+
+### Combine arrays
+```js
+const array = [1,2];
+const array2 = [3,4];
+const array3 = [...array, ...array2];
+```
+
+```js
+> array3
+[1, 2, 3, 4]
+```
+
+### Passing arguments into functions
+Passing array items into a function as argumentS, not as a single array:
+```js
+const array = [1, 2, 3];
+spreadArgs(...array);
+```
+
+## Composition
+What an object *can do* not what an object is.
+```js
+const canEat = function(creature) {
+  const obj = {
+    eat: function(food) {
+      return `The ${creature} eats the ${food}.`
+    }
+  }
+  return obj;
+}
+```
+There is a function literal that returns an object. 
+The object has a single property called `eat` that stores a function.
+
+Create a cat:
+```js
+> const cat = canEat("cat");
+```
+Cat Object is now:
+```js
+{
+  eat: function(food) {
+        return `The cat eats the ${food}.`
+      }
+}
+```
+Cat can now eat food:
+```js
+> cat.eat("salmon");
+'The cat eats the salmon.'
+```
+
+Define another method (sleep), and m ake a method that combines both
+```js
+const canEat = function(creature) {
+  const obj = {
+    eat: function(food) {
+      return `The ${creature.name} eats the ${food}.` 
+    }
+  }
+  return obj;
+}
+
+const canSleep = function(creature) {
+  const obj = {
+    sleep: function() {
+      return `The ${creature.name} sleeps.` 
+    }
+  }
+  return obj;
+}
+
+const sleepingEatingCreature = function(name) {
+  let state = {
+    name
+  }
+
+  return { ...state, ...canEat(state), ...canSleep(state) };
+}
+```
+Implicit Return - If we use arrow notation with a function that returns a single object, we don't need to add areturn statement.
+
+Ex:
+```js
+> const platypus = sleepingEatingCreature("platypus");
+
+platypus {
+  name: 'platypus', 
+  eat: function(food) {
+    return `The ${creature.name} eats the ${food}.`
+  }, 
+  sleep: function() {
+    return `The ${creature.name} sleeps.`
+  }
+}
+
+```
+
+

@@ -1,5 +1,9 @@
 {
-  "cssTheme": "obsidian",
+  "cssTheme": "Dracula Official",
   "translucency": true,
-  "baseFontSize": 21
+  "baseFontSize": 21,
+  "accentColor": "",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": false
 }
